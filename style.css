@@ -406,16 +406,16 @@ span {
   background: white;
   cursor: pointer;
 }
-.bar .progress-line .javascript span {
+.bar .progress-line.css span {
   width: 100%;
   background-color: purple;
 }
-.bar .progress-line .javascript span {
+.bar .progress-line.html span {
   width: 80%;
   background-color: purple;
 }
-.bar .progress-line .javascript span {
-  width: 80%;
+.bar .progress-line.javascript span {
+  width: 70%;
   background-color: purple;
 }
 .timeline-section {
